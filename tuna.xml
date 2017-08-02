@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <tuna>
+            <Filename>RR-N-v5.8.3-20170801-tuna-Unofficial.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download latest builds">https://www.androidfilehost.com/?fid=745425885120752757</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+           <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
+	        <XDAUrl
+            	id="xda_thread"
+            	title="Web"
+            	description="Visit my site">https://zeelogkang.blogspot.com</XDAUrl>
+	        <DonationUrl
+            	id="donate_paypal"
+            	title="Donate to device maintainer"
+            	description="PayPal">http://goo.gl/kbwuTY</DonationUrl>
+	    </tuna>
+    </Stable>
+</SlimOTA>
