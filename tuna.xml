@@ -15,14 +15,14 @@
             	id="open_gapps"
             	title="Open Gapps"
             	description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
-	        <XDAUrl
+	   <XDAUrl
             	id="xda_thread"
             	title="Web"
             	description="Visit my site">https://zeelogkang.blogspot.com</XDAUrl>
-	        <DonationUrl
+	   <DonationUrl
             	id="donate_paypal"
             	title="Donate to device maintainer"
             	description="PayPal">http://goo.gl/kbwuTY</DonationUrl>
-	    </tuna>
+	</tuna>
     </Stable>
 </SlimOTA>
