@@ -22,7 +22,7 @@
 	   <DonationUrl
             	id="donate_paypal"
             	title="Donate to device maintainer"
-            	description="PayPal">http://goo.gl/kbwuTY</DonationUrl>
+		description="PayPal">https://goo.gl/h5B4UP</DonationUrl>
 	</tuna>
     </Stable>
 </SlimOTA>
