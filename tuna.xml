@@ -10,7 +10,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+                description="View Changelog">https://github.com/zeelog/OTA/blob/rr/CHANGELOG.mkdn</ChangelogUrl>
            <OpenGappsUrl
             	id="open_gapps"
             	title="Open Gapps"

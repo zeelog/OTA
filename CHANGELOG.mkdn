@@ -1,0 +1,23 @@
+
+# Resurrection Remix Nougat Changelog
+========================================
+# GALAXY NEXUS
+========================================
+
+06-AUG-17
+Merged with upstream
+Add OTA Support
+Fix settings FC & freeze
+PIE updates & fixes
+Add option to disable battery light in DND mode:
+(Configurations>Panels>Notifications)
+
+01-AUG-17
+Minor fixes from initial release
+
+26-JULY-17
+Initial Release
+
+
+
+
