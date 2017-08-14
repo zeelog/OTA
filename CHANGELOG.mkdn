@@ -4,6 +4,12 @@
 # GALAXY NEXUS
 ========================================
 
+14-AUG-17
+Merged with upstream ::
+Android 7.1.2 release 29
+Add sensor block per-package switch ::
+Removed selinux switch ::
+
 06-AUG-17
 Merged with upstream
 Add OTA Support
