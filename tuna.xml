@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <tuna>
-            <Filename>RR-N-v5.8.3-20170801-tuna-Unofficial.zip</Filename>
+            <Filename>RR-N-v5.8.4-20170814-tuna-Unofficial.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest builds">https://www.androidfilehost.com/?fid=745425885120753891</RomUrl>
+                description="Download latest builds">https://www.androidfilehost.com/?fid=889764386195922872</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
