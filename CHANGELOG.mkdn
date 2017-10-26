@@ -4,6 +4,15 @@
 # GALAXY NEXUS
 ========================================
 
+25-OCT-17
+Merged with upstream ::
+Add color engine theme support ::
+Dropped CMA support ::
+Add GPU overclock support ::
+Add Battery Fast charge support ::
+Add burnin screen protection support ::
+Patched for latest CVEs ::
+
 14-AUG-17
 Merged with upstream ::
 Android 7.1.2 release 29
