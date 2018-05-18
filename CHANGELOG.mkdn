@@ -4,6 +4,25 @@
 # GALAXY NEXUS
 ========================================
 
+18-MAY-2018
+Updated to Android 7.1.2 Release 36 ::
+Security Patch level updated to April '18
+Merged various kernel security updates ::
+Kernel - Switched to 64 bit binder API ::
+Kernel - updated RTC Alarm driver ::
+Kernel - LMK updates ::
+Updated TimeZone data to tzdata2018e ::
+Fixed device encryption ::
+HWUI compiled for performance ::
+Video Playback: Add DRM encrypted content support ::
+Toro: fix for in-call audio ::
+BFQ I/O Scheduler updates ::
+CFQ I/O Scheduler updates ::
+Fix screen-off max frequency ::
+Snap Camera: Add integrated QuickReader ::
+Ducati:Switch back to 4.2 (Fixes some 720/1080p playback issues) ::
+Removed prebuilt Magisk - Needs to be downloaded/flashed separately ::
+
 25-OCT-17
 Merged with upstream ::
 Add color engine theme support ::
