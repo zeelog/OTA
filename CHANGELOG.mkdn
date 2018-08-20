@@ -4,6 +4,19 @@
 # GALAXY NEXUS
 ========================================
 
+20-AUG-2018
+Security patch level updated to August'18
+Kernel updates most noticeably:
+BFQ scheduler fixes
+switch to 64-bit binder
+alarm driver updates
+switch to default libion
+optimized CRC32 & RWSEM algorithms
+Entropy tweaks
+Added improved glibc memcpy & memmove functions
+enabled CPU Alignment
+switch to XZ compression
+
 18-MAY-2018
 Updated to Android 7.1.2 Release 36 ::
 Security Patch level updated to April '18
