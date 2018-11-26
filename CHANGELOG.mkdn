@@ -3,6 +3,8 @@
 ========================================
 # GALAXY NEXUS
 ========================================
+26-NOV-2018
+Security patch level updated to November'18
 
 20-AUG-2018
 Security patch level updated to August'18
