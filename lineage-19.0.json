@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1657263611,
-      "filename": "lineage-19.1-20220708-UNOFFICIAL-mido.zip",
-      "id": "1ff333fecb95ce1a7be15b116fb2980e",
+      "datetime": 1658207380,
+      "filename": "lineage-19.1-20220719-UNOFFICIAL-mido.zip",
+      "id": "20bf7c26586ddff90753f3ad84142f1b",
       "romtype": "UNOFFICIAL",
-      "size": 859630092,
-      "url": "https://github.com/zeelog/OTA/releases/download/68.0/lineage-19.1-20220708-UNOFFICIAL-mido.zip",
+      "size": 860461489,
+      "url": "https://github.com/zeelog/OTA/releases/download/69.0/lineage-19.1-20220719-UNOFFICIAL-mido.zip",
       "version": "19.1"
     }
   ]
